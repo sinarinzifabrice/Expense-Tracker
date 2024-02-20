@@ -1,0 +1,30 @@
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/bin/Debug/net8.0/appsettings.Development.json
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/bin/Debug/net8.0/appsettings.json
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker.staticwebassets.runtime.json
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker.deps.json
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker.runtimeconfig.json
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker.dll
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker.pdb
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.AssemblyInfoInputs.cache
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.AssemblyInfo.cs
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.csproj.CoreCompileInputs.cache
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.MvcApplicationPartsAssemblyInfo.cache
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.RazorAssemblyInfo.cache
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.RazorAssemblyInfo.cs
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets/msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets/msbuild.build.Expense Tracker.props
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Expense Tracker.props
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Expense Tracker.props
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/scopedcss/bundle/Expense Tracker.styles.css
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/scopedcss/projectbundle/Expense Tracker.bundle.scp.css
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.dll
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/refint/Expense Tracker.dll
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.pdb
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.genruntimeconfig.cache
+/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/ref/Expense Tracker.dll
