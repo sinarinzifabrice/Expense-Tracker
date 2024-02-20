@@ -28,3 +28,108 @@
 /Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.pdb
 /Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.genruntimeconfig.cache
 /Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/Debug/net8.0/ref/Expense Tracker.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/appsettings.Development.json
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/appsettings.json
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker.staticwebassets.runtime.json
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker.deps.json
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker.runtimeconfig.json
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Expense Tracker.pdb
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.AssemblyInfoInputs.cache
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.AssemblyInfo.cs
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.csproj.CoreCompileInputs.cache
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.MvcApplicationPartsAssemblyInfo.cache
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.RazorAssemblyInfo.cache
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.RazorAssemblyInfo.cs
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.sourcelink.json
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets/msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets/msbuild.build.Expense Tracker.props
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Expense Tracker.props
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Expense Tracker.props
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/scopedcss/bundle/Expense Tracker.styles.css
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/scopedcss/projectbundle/Expense Tracker.bundle.scp.css
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/refint/Expense Tracker.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.pdb
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.genruntimeconfig.cache
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/ref/Expense Tracker.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.csproj.AssemblyReference.cache
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Humanizer.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/MySqlConnector.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/System.CodeDom.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/Debug/net8.0/Expense Tracker.csproj.CopyComplete
