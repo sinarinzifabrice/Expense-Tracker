@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mainguest/Projects/Expense Tracker/Expense Tracker/Expense Tracker.csproj",
+      "projectUniqueName": "/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/Expense Tracker.csproj",
       "projectName": "Expense Tracker",
-      "projectPath": "/Users/mainguest/Projects/Expense Tracker/Expense Tracker/Expense Tracker.csproj",
+      "projectPath": "/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/Expense Tracker.csproj",
       "packagesPath": "/Users/mainguest/.nuget/packages/",
-      "outputPath": "/Users/mainguest/Projects/Expense Tracker/Expense Tracker/obj/",
+      "outputPath": "/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mainguest/.nuget/NuGet/NuGet.Config"
