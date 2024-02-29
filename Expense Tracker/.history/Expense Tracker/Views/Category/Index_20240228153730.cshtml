@@ -1,0 +1,19 @@
+@model IEnumerable<Expense_Tracker.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="row">
+    <div class="col-md-7">
+        <ejs-grid id="categories" dataSource="@Model" gridLines="none" >
+            <e-grid-columns>
+                <e-grid-column headerText="Category" field="Title"></e-grid-column>
+                <e-grid-column headerText="Type" field="Title"></e-grid-column>
+                <e-grid-column headerText="Category" field="Title"></e-grid-column>
+            </e-grid-columns>
+
+        </ejs-grid>
+    </div>
+</div>
