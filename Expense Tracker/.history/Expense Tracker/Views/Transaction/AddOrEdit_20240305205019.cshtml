@@ -1,0 +1,66 @@
+@model Expense_Tracker.Models.Transaction
+
+@{
+    ViewData["PageTitle"] = Model.TransactionId == 0 ? "Create a new transaction" : "Edit transaction";
+}
+
+
+
+<div class="row">
+    <div class="col-md-7">
+        <div class="widget widget-form p-5">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <ejs-dropdownlist   id="listeCategory" 
+                                        ejs-for="CategoryId"
+                                        dataSource="@ViewBag.Categories" 
+                                        placeholder="Category"
+                                        floatLabelType="Always" 
+                                        allowFiltering="true" 
+                                        ignoreAccent="true"
+                                        filterType="Contains" 
+                                        popupHeight="220px">
+                        <e-dropdownlist-fields value="CategoryId" text="TitleWithIcon"></e-dropdownlist-fields>
+                    </ejs-dropdownlist>                
+                </div>
+                <div class="form-group">
+                    <ejs-numerictextbox id="amount" 
+                                        min="0" 
+                                        format="c0" 
+                                        placeholder="Amount" 
+                                        ejs-for="Amount" 
+                                        floatLabelType="Always">
+                    </ejs-numerictextbox>
+                    <span asp-validation-for="Amount" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <ejs-textbox id="note" placeholder="Note" ejs></ejs-textbox>
+                    <span asp-validation-for="Note" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <ejs-datepicker id="date" 
+                                    placeholder="Date(yyy-MM-dd)" 
+                                    floatLabelType="Always" 
+                                    ejs-for="Date" 
+                                    format="yyyy-MM-dd"></ejs-datepicker>
+                    <span asp-validation-for="Date" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="col-md-5">
+        <div class="widget h-100 d-flex justify-content-center align-items-center">
+            <i class="fa-solid fa-money-bill-transfer fa-2xl"></i>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+

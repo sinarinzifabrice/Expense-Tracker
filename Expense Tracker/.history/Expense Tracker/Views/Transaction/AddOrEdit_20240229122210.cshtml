@@ -1,0 +1,22 @@
+@model Expense_Tracker.Models.Transaction
+
+@{
+    ViewData["PageTitle"] = Model.TransactionId == 0 ? "Create a new transaction" : "Edit transaction";
+}
+
+
+
+<div class="row">
+    <div class="col-md-7">
+        <div class="widget widget-form p-5">
+
+        </div>
+        
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
