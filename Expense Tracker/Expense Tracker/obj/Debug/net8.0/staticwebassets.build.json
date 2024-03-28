@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ymegEP2YkW1SRkHbbfJn2S/TLF0ea0gM9Cy9NtBbSKc=",
+  "Hash": "Dz5fsX6XjFSbTjx6d3majpVAD8tN5WUUnqoXe1N0aA8=",
   "Source": "Expense Tracker",
   "BasePath": "_content/Expense Tracker",
   "Mode": "Default",
@@ -1193,6 +1193,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/wwwroot/logo.png",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/wwwroot/",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/logo.png"
+    },
+    {
+      "Identity": "/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/wwwroot/profile.jpg",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mainguest/Projects/Expense-Tracker/Expense Tracker/Expense Tracker/wwwroot/",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/profile.jpg"
     }
   ]
 }

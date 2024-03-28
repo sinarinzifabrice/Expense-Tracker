@@ -1,0 +1,14 @@
+@page
+@{
+    List<object> menuItems = new List<object>();
+
+    menuItems.Add(new 
+        text = "Category",
+        url = "/")
+}
+
+<ejs-sidebar id="sidebar" width="290px">
+    <e-content-template>
+        <ejs-menu id="menu" items="menuItems"></ejs-menu>
+    </e-content-template>
+</ejs-sidebar>
